@@ -11,10 +11,9 @@
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
 		<sonar.host.url>http://13.231.156.165:9000/</sonar.host.url>
-	</properties>
-	<properties>
-    <maven.compiler.source>11</maven.compiler.source>
-    <maven.compiler.target>11</maven.compiler.target>
+		
+	<maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
         </properties>
 	 	<dependency>
 			<groupId>junit</groupId>
